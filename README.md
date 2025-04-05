@@ -58,19 +58,10 @@ python src/test/test_assignment_3.py
 
 This will output:
 
-P1 output: Solution to the linear system using Gaussian elimination
-
-P2 output:
-
-2a. Matrix determinant
-
-2b. Lower triangular matrix L
-
-2c. Upper triangular matrix U
-
-P3 output: Whether the matrix is diagonally dominant (True or False)
-
-P4 output: Whether the matrix is positive definite (True or False)
+- **P1 output**: Solution to the linear system using Gaussian elimination.
+- **P2 output**: 2a. Matrix determinant, 2b. Lower triangular matrix L, 2c. Upper triangular matrix U
+- **P3 output**: Lists required libraries (only NumPy if used).
+- **P4 output**: Provides setup steps, run instructions, and file structure overview.
 ---
 ## Author
 Jeffrey Chang 
